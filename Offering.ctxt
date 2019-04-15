@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Offering
+comment1.params=_name\ _type\ _image
+comment1.target=Offering(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=_speed\ _direction\ _iterations
+comment2.target=void\ Slide(int,\ boolean,\ int)
+comment3.params=
+comment3.target=void\ act()
+numComments=4
